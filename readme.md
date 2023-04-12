@@ -17,4 +17,4 @@ The Natours website was built using the following technologies:
 
 ## <span style="color: lightgreen">API Documentation</span>
 
-The Natours website provides a RESTful API for accessing and manipulating the tours and users data. The API documentation is available on Postman and can be accessed at https://docuenter.getpostman.com/view/25638803/2s93Jxs1u9.
+The Natours website provides a RESTful API for accessing and manipulating the tours and users data. The API documentation is available on Postman and can be accessed at https://documenter.getpostman.com/view/25638803/2s93Jxs1u9#5310038c-12e1-4b25-8618-48e3183e927c
