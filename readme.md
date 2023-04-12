@@ -1,5 +1,7 @@
 # <span style="color: lightgreen">Natours</span>
 
+<a href="https://ibb.co/dW2P5hB"><img src="https://i.ibb.co/1vqrmSZ/image.png" alt="image" border="0" /></a>
+
 This is a website for a fictional company called Natours, which offers tours and activities in nature.
 
 ## <span style="color: lightgreen">Technologies Used</span>
